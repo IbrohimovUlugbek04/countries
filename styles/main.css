@@ -175,7 +175,7 @@ ul {
   display: block;
   width: 20px;
   height: 20px;
-  margin: 0 20px 0 30px;
+  margin-left: 30px;
   background-image: var(--main-ho-sch);
   background-size: 18px;
   background-repeat: no-repeat;
@@ -184,7 +184,7 @@ ul {
 
 .hero-form__input {
   width: 100%;
-  padding: 18px 5px;
+  padding: 18px 20px;
   font-weight: var(--main-body-fw-nl);
   font-size: var(--main-body-fs-lt);
   line-height: 20px;
